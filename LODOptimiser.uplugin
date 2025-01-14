@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "0.1",
-	"FriendlyName": "LODOptimiser",
-	"Description": "A tool that allows you to easily set min LODs per Quality Level for all Static Meshes.",
+	"VersionName": "1.0.0",
+	"FriendlyName": "LOD Optimiser",
+	"Description": "A tool that allows you to easily set min LODs per Quality Level for Meshes.",
 	"Category": "Performance",
 	"CreatedBy": "Archie Jaskowicz",
 	"CreatedByURL": "https://jaskowicz.xyz",
@@ -11,7 +11,7 @@
 	"MarketplaceURL": "",
 	"SupportURL": "https://github.com/Jaskowicz1/LODOptimiser/",
 	"CanContainContent": true,
-	"IsBetaVersion": true,
+	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"NoCode": true
