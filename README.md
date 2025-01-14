@@ -1,5 +1,5 @@
 # LOD Optimiser
-A plugin for Unreal Engine 5 that will auto assign Min LODs per Quality Level for all Static Meshes.
+A plugin for Unreal Engine 5.4+ that will auto assign Min LODs per Quality Level for all Static Meshes.
 
 ## Documentation
 
